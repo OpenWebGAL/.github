@@ -2,7 +2,9 @@
 
 Welcome to Open WebGAL!
 
-OpenWebGAL is recruiting contirbutors! [Join US!](https://openwebgal.com/zh-cn/blog/join/)
+**WebGAL 制作组正在招募贡献者！ [加入我们](https://openwebgal.com/zh-cn/blog/join/)**
+
+**OpenWebGAL is recruiting contirbutors! [Join US!](https://openwebgal.com/zh-cn/blog/join/)**
 
 ## WebGAL 理念
 
